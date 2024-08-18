@@ -37,6 +37,7 @@ For any questions or suggestions, feel free to reach out:
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/mayur-choudhari-5b1a58286](https://www.linkedin.com/in/mayur-choudhari-5b1a58286/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-choudhari-5b1a58286/)
+
 
 
